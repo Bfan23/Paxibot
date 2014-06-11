@@ -1,0 +1,4 @@
+D:\development\workplace\Paxibot\Paxibot.Server\bin\Debug\Paxibot.Server.dll
+D:\development\workplace\Paxibot\Paxibot.Server\bin\Debug\Paxibot.Server.pdb
+D:\development\workplace\Paxibot\Paxibot.Server\obj\Debug\Paxibot.Server.dll
+D:\development\workplace\Paxibot\Paxibot.Server\obj\Debug\Paxibot.Server.pdb

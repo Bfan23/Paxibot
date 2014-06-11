@@ -1,0 +1,2 @@
+D:\development\workplace\Paxibot\Paxibot\bin\Debug\Paxibot.exe.config
+D:\development\workplace\Paxibot\src\Paxibot\bin\Debug\Paxibot.exe.config
