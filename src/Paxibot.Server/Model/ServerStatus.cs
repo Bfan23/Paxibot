@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Paxibot
+namespace Paxibot.Server.Model
 {
-    class Program
+    public enum ServerStatus
     {
-        static void Main(string[] args)
-        {
-        }
+        Idle,
+        WaitingConnections,
+        GameStarted
     }
 }

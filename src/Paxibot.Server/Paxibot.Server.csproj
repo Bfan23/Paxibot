@@ -39,6 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Messages\BaseMessage.cs" />
+    <Compile Include="Messages\RegisterationRequestMessage.cs" />
+    <Compile Include="Messages\RegisterationResponseMessage.cs" />
+    <Compile Include="Model\ServerStatus.cs" />
+    <Compile Include="Model\PaxibotClient.cs" />
     <Compile Include="Server.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

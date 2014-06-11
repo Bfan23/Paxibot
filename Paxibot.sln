@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paxibot.Server", "Paxibot.Server\Paxibot.Server.csproj", "{38E727D3-28E2-4254-BFE5-7421A437B000}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paxibot.Server", "src\Paxibot.Server\Paxibot.Server.csproj", "{38E727D3-28E2-4254-BFE5-7421A437B000}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
